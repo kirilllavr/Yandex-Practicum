@@ -4,5 +4,5 @@
 
 | Название проекта  | Описание | Навыки и инструменты  | Ссылка | 
 | ------------- | ------------- | ------------- | ------------- |
-| Анализ данных приложения GoFast  | Целью исследования является проверка гипотез, которые помогут увеличить прибыль данного бизнеса.  | Python, Pandas, Seaborn, Numpy, Matplotlib, Scipy | [stat_analysis]([http://a.com](https://github.com/kirilllavr/Yandex-Practicum/blob/main/2.%20stat_analysis.ipynb)) |
+| Анализ данных приложения GoFast  | Целью исследования является проверка гипотез, которые помогут увеличить прибыль данного бизнеса.  | Python, Pandas, Seaborn, Numpy, Matplotlib, Scipy | [stat_analysis](https://github.com/kirilllavr/Yandex-Practicum/blob/main/2.%20stat_analysis.ipynb) |
 | Content Cell  | Content Cell  |
